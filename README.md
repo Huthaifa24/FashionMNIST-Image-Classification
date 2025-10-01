@@ -6,7 +6,7 @@ The goal is to compare different models, starting from simple architectures and 
 
 ---
 
-## 📌 Models Built
+## Models Built
 
 ### 1. Linear Model
 - A single fully connected layer.
@@ -29,9 +29,9 @@ This was my **second deep learning model experiment after linear and non-linear 
 
 ---
 
-## ⚡ Training Details
+## Training Details
 - Dataset: **FashionMNIST**
-- Optimizer: SGD / Adam (depending on experiment)
+- Optimizer: SGD 
 - Loss Function: CrossEntropyLoss
 - Metrics: Accuracy
 
@@ -52,6 +52,6 @@ Visualizations of some random test samples and their predicted labels:
 ![Random Predictions](https://github.com/Huthaifa24/FashionMNIST-Image-Classification/blob/4a38c2569239db8a623f726557b30f8b44edf310/random%20_preds/3.png)
 ![Random Predictions](https://github.com/Huthaifa24/FashionMNIST-Image-Classification/blob/4a38c2569239db8a623f726557b30f8b44edf310/random%20_preds/1.png)
 
-## 📚 References
+## References
 - Dataset: [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
 - CNN Architecture Inspiration: [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
